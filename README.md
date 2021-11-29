@@ -8,6 +8,9 @@
 ### Hi there 👋
 
 
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Skills&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
+
 Tech skills
 
 
@@ -17,6 +20,9 @@ Tech skills
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
 
 

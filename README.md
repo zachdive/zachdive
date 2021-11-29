@@ -1,5 +1,3 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=ffe53d&text=Zach%20Dive&fontSize=40&fontColor=121111&animation=twinkling)
-
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=ffe53d&text=Zach%20Dive&fontSize=40&fontColor=121111&animation=twinkling)
 
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Skills&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)

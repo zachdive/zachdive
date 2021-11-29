@@ -26,5 +26,5 @@ Tech skills
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-paulo.jorge.ngs@gmail.com-282A36?style=flat-square&logo=Gmail&logoColor=red&link=mailto:paulo.jorge.ngs@gmail.com)](mailto:paulo.jorge.ngs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-paulo.jorge.ngs@gmail.com-EDF0F2?style=flat-square&logo=Gmail&logoColor=red&link=mailto:paulo.jorge.ngs@gmail.com)](mailto:paulo.jorge.ngs@gmail.com)
 

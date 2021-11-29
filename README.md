@@ -28,7 +28,5 @@ Tech skills
 
 [![Gmail Badge](https://img.shields.io/badge/-paulo.jorge.ngs@gmail.com-EDF0F2?style=flat-square&logo=Gmail&logoColor=red&link=mailto:paulo.jorge.ngs@gmail.com)](mailto:paulo.jorge.ngs@gmail.com)
 
-[!Resume Badge](https://img.shields.io/badge/-Resume-EDF0F2?style=flat-square&logo=Gmail&logoColor=red&link=mailto:paulo.jorge.ngs@gmail.com)](mailto:paulo.jorge.ngs@gmail.com)
-
 [![Linkedin Badge](https://img.shields.io/badge/-Zach_Dive-EDF0F2?style=flat-square&logo=Linkedin&logoColor=red&link=https://www.linkedin.com/in/paulo-j-santos/)](https://www.linkedin.com/in/paulo-j-santos/) 
 

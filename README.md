@@ -18,6 +18,7 @@ Tech skills
 ![Express.js](https://img.shields.io/badge/express.js-EDF0F2.svg?style=for-the-badge&logo=express&logoColor=%23404d59)
 ![Python](https://img.shields.io/badge/python-EDF0F2.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Product_Manager](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=for-the-badge)
+![Software_Engineer](https://img.shields.io/badge/Software_Engineer-EDF0F2.svg?style=for-the-badge)
 
 
 

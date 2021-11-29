@@ -12,7 +12,7 @@
 Tech skills
 
 
-![React](https://img.shields.io/badge/react&messageColor=%23F7DF1E-EDF0F2.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-EDF0F2.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-EDF0F2.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-EDF0F2.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
 ![Express.js](https://img.shields.io/badge/express.js-EDF0F2.svg?style=for-the-badge&logo=express&logoColor=%23404d59)

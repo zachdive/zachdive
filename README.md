@@ -17,11 +17,12 @@ Tech skills
 ![MongoDB](https://img.shields.io/badge/MongoDB-EDF0F2.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
 ![Express.js](https://img.shields.io/badge/express.js-EDF0F2.svg?style=for-the-badge&logo=express&logoColor=%23404d59)
 ![Python](https://img.shields.io/badge/python-EDF0F2.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=for-the-badge)
+![Product_Manager](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=for-the-badge)
 
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
+
 [![Gmail Badge](https://img.shields.io/badge/-zjhd201@exeter.ac.uk-EDF0F2?style=flat-square&logo=Gmail&logoColor=red&link=mailto:zjhd201@exeter.ac.uk)](mailto:zjhd201@exeter.ac.uk)
 [![Linkedin Badge](https://img.shields.io/badge/-Zach_Dive-EDF0F2?style=flat-square&logo=Linkedin&logoColor=red&link=https://linkedin.com/in/zacharydive/)](https://linkedin.com/in/zacharydive/) 
-
+[![Product_Manager](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=for-the-badge)](https://www.figma.com/file/OMzdj48YmiDjua0LMlak96/Exeter-Website-Figma?node-id=0%3A1)

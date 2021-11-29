@@ -25,4 +25,4 @@ Tech skills
 
 [![Gmail Badge](https://img.shields.io/badge/-zjhd201@exeter.ac.uk-EDF0F2?style=flat-square&logo=Gmail&logoColor=red&link=mailto:zjhd201@exeter.ac.uk)](mailto:zjhd201@exeter.ac.uk)
 [![Linkedin Badge](https://img.shields.io/badge/-Zach_Dive-EDF0F2?style=flat-square&logo=Linkedin&logoColor=red&link=https://linkedin.com/in/zacharydive/)](https://linkedin.com/in/zacharydive/) 
-[![Product_Manager](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=for-the-badge)](https://www.figma.com/file/OMzdj48YmiDjua0LMlak96/Exeter-Website-Figma?node-id=0%3A1)
+[![Product_Manager](https://img.shields.io/badge/Product_Manager-EDF0F2.svg?style=flat-square)](https://www.figma.com/file/OMzdj48YmiDjua0LMlak96/Exeter-Website-Figma?node-id=0%3A1)

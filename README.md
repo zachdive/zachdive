@@ -19,7 +19,7 @@
 - **Email:** [zach_dive@berkeley.edu](mailto:zach_dive@berkeley.edu)
 - **LinkedIn:** [Zach Dive](https://linkedin.com/in/zacharydive/)
 
-Feel free to reach out for collaborations or just a chat about tech and innovations!
+Feel free to reach out for collaborations or ping me for a coffee
 
 ---
 

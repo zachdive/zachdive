@@ -14,6 +14,10 @@
 
 `React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python`
 
+### Cool Stats
+
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachdive&show_icons=true&theme=radical)
+
 ### Projects
 
 Dive into my repos to check out what I've been working on! From full-stack applications to innovative side projects, there's always something I'm tinkering with.
@@ -24,5 +28,9 @@ Dive into my repos to check out what I've been working on! From full-stack appli
 - **LinkedIn:** [Zach Dive](https://linkedin.com/in/zacharydive/)
 
 Feel free to reach out for collaborations or just a chat about tech and innovations!
+
+### Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zachdive.zachdive)
 
 ---
